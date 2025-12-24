@@ -63,39 +63,47 @@ Copy code
 - Pygame library
 
 ### Install Pygame
-
 ```bash
 pip install pygame
+```
 
 ---
 
 ## ▶️ How to Run the Game
--Download or clone this repository
--Open terminal / command prompt in the project folder
--Run the following command:
 
-'''bash
+- Download or clone this repository
+- Open **Terminal / Command Prompt** inside the project folder
+- Run the following command:
+
+```bash
 python snake_game.py
+```
 
 ---
 
-##🎵 Assets Included
--Background image
--Snake texture image
--Background music
--Sound effects (food eat & game over)
+## 🎵 Assets Included
+
+- Custom background image
+- Snake texture image
+- Background music
+- Sound effects (food eat & game over)
 
 ---
 
-###🚀 Future Enhancements
--Multiple difficulty levels
--High score saving system
--Improved snake animations
--Mobile-friendly version
+## 🚀 Future Enhancements
+
+- Multiple difficulty levels
+- High score saving system
+- Improved snake animations
+- Mobile-friendly version
 
 ---
 
-##👩‍💻 Developed By
-Srashti Rastogi
-BCA (Artificial Intelligence) Student
+## 👩‍💻 Developed By
+
+**Srashti Rastogi**  
+BCA (Artificial Intelligence) Student  
 Invertis University, Bareilly
+
+---
+
